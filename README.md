@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanush-2605" alt="dhanush-2605" /></a> </p>
 
-- 🌱 I’m currently doing front-end internship at Rablo.in
+- 🌱 Prev Fontend intern at Rablo.in
 
 - 📫 How to reach me **vellasiridhanush@gmail.com**
 
